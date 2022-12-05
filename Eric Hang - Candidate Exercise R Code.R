@@ -20,7 +20,6 @@ memory.limit(size = 10000000)
 setwd("C:/Users/i31294/OneDrive - Verisk Analytics/Desktop/A Temp Folder")
 
 
-#Note - Alt-O condenses R sections in R-studio
 
 # Read in Data ------------------------------------------------------------
 
