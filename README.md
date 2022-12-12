@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-#Uber Candidate Exercise
+Technical Samples related to Data Science
