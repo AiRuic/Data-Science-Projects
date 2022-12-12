@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-Technical Samples related to Data Science
+Technical Samples related to Data Science and Insurance
